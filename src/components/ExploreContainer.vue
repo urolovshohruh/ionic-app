@@ -34,11 +34,12 @@ export default defineComponent({
 #container p {
   font-size: 16px;
   line-height: 22px;
-  color: #8c8c8c;
+  color: #c02020;
   margin: 0;
 }
 
 #container a {
   text-decoration: none;
+  color: blue;
 }
 </style>
